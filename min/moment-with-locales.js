@@ -9248,7 +9248,7 @@
         weekdaysShort : '周日_周一_周二_周三_周四_周五_周六'.split('_'),
         weekdaysMin : '日_一_二_三_四_五_六'.split('_'),
         longDateFormat : {
-            LT : 'Ah点mm',
+            LT : 'Ah点mm分',
             LTS : 'Ah点m分s秒',
             L : 'YYYY-MM-DD',
             LL : 'YYYY年MMMD日',
@@ -9363,7 +9363,7 @@
         weekdaysShort : '週日_週一_週二_週三_週四_週五_週六'.split('_'),
         weekdaysMin : '日_一_二_三_四_五_六'.split('_'),
         longDateFormat : {
-            LT : 'Ah點mm',
+            LT : 'Ah點mm分',
             LTS : 'Ah點m分s秒',
             L : 'YYYY年MMMD日',
             LL : 'YYYY年MMMD日',
